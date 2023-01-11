@@ -6,6 +6,6 @@ namespace Credits {
      */
     //% block
     export function credit(word: string) {
-        return "Devolped By " + word;
+        return "Developed by " + word;
     }
 }
