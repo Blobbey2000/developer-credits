@@ -2,7 +2,7 @@
 //% icon="\uf2c2"
 namespace Credits {
     /**
-     * This credits the text chosen
+     * This credits the text chosen.
      */
     //% block
     export function credit(word: string) {
