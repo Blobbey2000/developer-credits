@@ -1,0 +1,11 @@
+//% icon="f2c3"
+//% color="#999977"
+namespace blocks {
+    /**
+     * This credits the text chosen
+     */
+    //% block
+    export function credit(word: string) {
+        return word;
+    }
+}
