@@ -1,6 +1,6 @@
-//% icon="f2c3"
 //% color="#999977"
-namespace blocks {
+//% icon="\uf2c2"
+namespace Credits {
     /**
      * This credits the text chosen
      */
