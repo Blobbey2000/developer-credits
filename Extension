@@ -5,7 +5,7 @@ namespace Credits {
      * This credits the text chosen.
      */
     //% block
-    export function credit(word: string) {
-        return "Developed by " + word;
+    export function credit(developer: string) {
+        return "Developed by " + developer;
     }
 }
